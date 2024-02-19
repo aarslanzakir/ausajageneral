@@ -1,0 +1,10 @@
+{
+  "conventionalCommits.silentAutoCommit": true,
+  "search.useParentIgnoreFiles": true,
+  "openInGitHub.providerType": "github",
+  "openInGitHub.useCommitSHAInURL": true,
+  "githubPullRequests.terminalLinksHandler": "github",
+  "githubPullRequests.showPullRequestNumberInTree": true,
+  "gitHistory.includeRemoteBranches": true,
+  "conventionalCommits.autoCommit": true
+}
